@@ -12,9 +12,9 @@ This project calculates the total work hours of employees based on their check-i
 ## Example Output
 | EmpID | Name  | First Check-In      | Last Check-Out       | Total Out Count | Total Work Hours |
 |-------|-------|---------------------|----------------------|-----------------|------------------|
-| 1     | Him   | 2024-01-03 10:08   | 2024-01-03 18:08    | 3               | 06:07           |
-| 2     | Raj   | 2024-01-03 10:10   | 2024-01-03 15:12    | 2               | 04:49           |
-| 3     | Anu   | 2024-01-03 10:12   | 2024-01-03 18:35    | 2               | 08:18           |
+| 1     | x | 2024-01-03 10:08   | 2024-01-03 18:08    | 3               | 06:07           |
+| 2     | y | 2024-01-03 10:10   | 2024-01-03 15:12    | 2               | 04:49           |
+| 3     | z | 2024-01-03 10:12   | 2024-01-03 18:35    | 2               | 08:18           |
 
 ## How to Use
 1. Copy the SQL code from `employee_attendance.sql`.
